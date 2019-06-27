@@ -30,7 +30,7 @@ A common problem to deal with Linguistic Modelling is majority of data is unstru
 
 As I am not allowed to share the original data,I will try to emulate the same challenges here to the best of my ability. Lets try to anlayze the Forecasting model first
 
-1.[Forecasting Model](https://github.com/luvsin27/Project-emulation/tree/master/Business-Automation-Case-Study)
+1.[Forecasting Model](https://github.com/luvsin27/Project-emulation/blob/master/Business-Automation-Case-Study/forcasting_model.ipynb)
 
 2.Microservices and Chatbot(to be updated)
 
